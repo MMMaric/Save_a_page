@@ -7,3 +7,5 @@
     1. HTML
     2. CSS
     3. Javascript
+    
+<b>--> How to use:</b> 
