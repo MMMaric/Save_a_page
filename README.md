@@ -1,8 +1,8 @@
 # Save a page
 
----> About : Save a page project, you can write and save your favorite page.
+<b>---> About : </b>  Save a page project, you can write and save your favorite page.
 
----> Technologies used : 
+<b>---> Technologies used : </b> 
 
     1. HTML
     2. CSS
