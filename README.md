@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-<b>---> Technologies used : </b> 
+<b>---> Technologies used: </b> 
 
     1. HTML
     2. CSS
