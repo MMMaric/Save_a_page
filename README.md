@@ -21,3 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
     2. Right click on index.html 
     3. Open in Google Chrome
     4. And you will see my application/website there.
+
+### Installing 
+
+A step by step series of examples that tell you how to get a development env running.
